@@ -1,1 +1,1 @@
-## Deep Learning Framework in C
+## Neural network from scratch in C
